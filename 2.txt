@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 FINAL NI HAMAN
+=======
+Two = Eliezer M. Haman Jr.
+
+SHARK
+>>>>>>> 7f72427774ed587d003864d5d5db68a043194dda
